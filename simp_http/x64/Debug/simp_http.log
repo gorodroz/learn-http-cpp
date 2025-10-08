@@ -1,0 +1,3 @@
+﻿  main.cpp
+X:\cpp_projects\simp-http\simp_http\main.cpp(232,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  simp_http.vcxproj -> X:\cpp_projects\simp-http\simp_http\x64\Debug\simp_http.exe

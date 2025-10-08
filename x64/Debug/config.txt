@@ -1,0 +1,5 @@
+# Simple HTTP server configuration
+PORT = 8080
+THREADS = 4
+WEB_ROOT = www
+LOG_FILE = server.log
