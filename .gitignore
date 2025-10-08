@@ -43,3 +43,8 @@ config.txt
 # System files
 Thumbs.db
 desktop.ini
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
