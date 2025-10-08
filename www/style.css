@@ -1,0 +1,10 @@
+p {
+  color: blue; /* Sets text color to blue */
+  font-size: 16px; /* Sets font size to 16 pixels */
+  background-color: lightgray; /* Sets background color to light gray */
+}
+
+h1 {
+  color: #FF0000; /* Sets text color to red using hexadecimal code */
+  font-family: Arial, sans-serif; /* Sets font family with a fallback */
+}
