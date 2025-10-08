@@ -1,34 +1,45 @@
-# Build folders
-/build/
-/bin/
-/Debug/
-/Release/
-/www/
-
-# Visual Studio
+# Visual Studio build folders
 .vs/
-*.vcxproj.user
-*.suo
-*.user
-*.ncb
-*.opensdf
-*.sdf
-*.ipch
-
-# Compiled binaries
+x64/
+x86/
+Debug/
+Release/
+*.VC.db
+*.VC.opendb
+*.obj
+*.log
+*.tlog/
+*.idb
+*.pdb
+*.ilk
 *.exe
 *.dll
 *.lib
-*.obj
-*.pdb
-*.cfg
+*.ipch
 
-# CMake files
-CMakeCache.txt
+# Visual Studio project files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake
 CMakeFiles/
+CMakeCache.txt
 cmake_install.cmake
 Makefile
 
-# OS files
+# Other
+*.tmp
+*.bak
+*.old
+*.cache
+*.opendb
+
+# Logs and config
+server.log
+config.txt
+
+# System files
 Thumbs.db
-.DS_Store
+desktop.ini

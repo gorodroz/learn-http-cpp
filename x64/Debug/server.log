@@ -1,7 +1,0 @@
-[2025-10-08 16:06:20] [INFO] Loaded config:
-[2025-10-08 16:06:20] [INFO]   PORT=8080
-[2025-10-08 16:06:20] [INFO]   THREADS=4
-[2025-10-08 16:06:20] [INFO]   WEB_ROOT=www
-[2025-10-08 16:06:20] [INFO]   LOG_FILE=server.log
-[2025-10-08 16:06:20] [OK] Server started on port 8080
-[2025-10-08 16:06:48] [HTTP] [127.0.0.1] GET /index.html -> 404
